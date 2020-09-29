@@ -21,4 +21,4 @@ For more information, see:
 
 Afaf F. Moustafa (2020). Color Doppler Ultrasound Improves Machine Learning Diagnosise of Breast Cancer. Diagnostics. 10(9):631.
 
-Santosh S. Venkatesh (2015). Going beyond a First Reader:A Machine Learning Methodology for Optimizing Cost and Performance in Breast Ultrasound Diagnosis.. Ultrasound Med Bio. 41:3148-62.
+Santosh S. Venkatesh (2015). Going beyond a First Reader:A Machine Learning Methodology for Optimizing Cost and Performance in Breast Ultrasound Diagnosis.. Ultrasound Med Bio. 41(12):3148-62.
